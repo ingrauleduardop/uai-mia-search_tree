@@ -1,0 +1,54 @@
+
+
+----------------------------------
+Búsqueda en Profundidad
+----------------------------------
+
+Iniciando la búsqueda desde UAI
+
+Visitando a P3 desde UAI
+Costo Acumulado de Ruta:  120
+
+Visitando a P5 desde P3
+Costo Acumulado de Ruta:  235
+
+Visitando a P8 desde P5
+Costo Acumulado de Ruta:  334
+
+Visitando a P11 desde P8
+Costo Acumulado de Ruta:  447
+
+Visitando a P14 desde P11
+Costo Acumulado de Ruta:  581
+
+Visitando a P15 desde P14
+Costo Acumulado de Ruta:  650
+
+Visitando a P10 desde P8
+Costo Acumulado de Ruta:  750
+
+Visitando a P13 desde P10
+Costo Acumulado de Ruta:  804
+
+Visitando a P9 desde P8
+Costo Acumulado de Ruta:  963
+
+Visitando a P12 desde P9
+Costo Acumulado de Ruta:  1019
+
+Visitando a P4 desde P3
+Costo Acumulado de Ruta:  1142
+
+Visitando a P7 desde P4
+Costo Acumulado de Ruta:  1269
+
+Visitando a P6 desde P4
+Costo Acumulado de Ruta:  1534
+
+Visitando a P2 desde UAI
+Costo Acumulado de Ruta:  1634
+
+Visitando a P1 desde UAI
+Costo Acumulado de Ruta:  1887
+
+Ruta obtenida con Búsqueda en Profundidad: UAI P3 P5 P8 P11 P14 P15 P10 P13 P9 P12 P4 P7 P6 P2 P1
